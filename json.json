@@ -1,0 +1,25 @@
+{
+  "fsp_participants": [
+    {
+      "fsp_id": "FSP-10492",
+      "full_name": "Алексей Смирнов",
+      "rating": 1850,
+      "contests_count": 5,
+      "rank_title": "Кандидат в мастера",
+      "recent_contests": [
+        {"name": "Кубок России 2026", "place": 14, "role": "Lead/Algorist"},
+        {"name": "Чемпионат Сибири", "place": 4, "role": "Algorist"}
+      ]
+    },
+    {
+      "fsp_id": "FSP-99120",
+      "full_name": "Дмитрий Кузнецов",
+      "rating": 1420,
+      "contests_count": 2,
+      "rank_title": "Участник региональной лиги",
+      "recent_contests": [
+        {"name": "Открытый контест ВУЗов", "place": 48, "role": "Coder"}
+      ]
+    }
+  ]
+}
